@@ -1,6 +1,7 @@
 ---
 layout: post
 title: THE CLOCK WEEKLY
+theme: cayman
 ---
 
 <html>
