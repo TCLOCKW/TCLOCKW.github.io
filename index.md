@@ -1,4 +1,5 @@
 ---
+title: THE CLOCK WEEKLY
 theme: Cayman
 ---
 
