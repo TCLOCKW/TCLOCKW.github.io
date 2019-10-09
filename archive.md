@@ -9,5 +9,7 @@
 <br>
 <br>
 <a href='https://docs.google.com/document/d/1_vv9ohgQmqlvLsj1opFTyKE8o6977qyFc4wMgd0RWKo/edit'>Issue 1 Full Edition</a>
+<br>
+<br>
 <button onclick="window.location.href = 'index';">Home Page</button>
 </html>
