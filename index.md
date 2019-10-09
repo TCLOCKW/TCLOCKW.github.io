@@ -1,6 +1,4 @@
----
-theme:cayman
----
+
 <html>
   <h1>THE CLOCK WEEKLY</h1>
   <h1>Welcome to the online Clock Weekly website!</h1>
