@@ -1,3 +1,7 @@
+---
+layout: post
+title: THE CLOCK WEEKLY
+---
 
 <html>
   <h1>THE CLOCK WEEKLY</h1>
