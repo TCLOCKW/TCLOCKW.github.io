@@ -10,5 +10,7 @@ theme: Cayman
   <br>
   <br>
   <button onclick="window.location.href = 'current';">Current Issue</button>
+  <br>
+  <br>
   <button onclick="window.location.href = 'HW';">Today's Homework Problems</button>
 </html>
